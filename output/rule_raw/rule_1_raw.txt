@@ -1,0 +1,6 @@
+{
+  "rule": "Act must define key terms",
+  "status": "pass",
+  "evidence": "The Act defines 'pre-2026 claimant', 'severe conditions criteria claimant' and other relevant terms.",
+  "confidence": 100
+}
