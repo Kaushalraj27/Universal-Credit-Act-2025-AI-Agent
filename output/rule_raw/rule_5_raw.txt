@@ -1,0 +1,6 @@
+{
+  "rule": "Act must include payment calculation or entitlement structure",
+  "status": "pass",
+  "evidence": "The section text includes formulas for calculating protected LCWRA amounts and ESA IR personal allowances, as well as references to powers to increase these amounts.",
+  "confidence": 90
+}

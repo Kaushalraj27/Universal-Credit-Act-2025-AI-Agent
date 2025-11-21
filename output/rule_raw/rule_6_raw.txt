@@ -1,0 +1,6 @@
+{
+  "rule": "Act must include record-keeping or reporting requirements",
+  "status": "pass",
+  "evidence": "Section 3.2 requires regular submission of quarterly reports to the relevant authorities.",
+  "confidence": 100
+}

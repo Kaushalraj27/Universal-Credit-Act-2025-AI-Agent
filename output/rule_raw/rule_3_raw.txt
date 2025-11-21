@@ -1,0 +1,6 @@
+{
+  "rule": "Act must specify responsibilities of the administering authority",
+  "status": "pass",
+  "evidence": "The SECTION TEXT specifies that 'the [administering authority] shall be responsible for...' ",
+  "confidence": 90
+}

@@ -1,0 +1,6 @@
+{
+  "rule": "Act must include enforcement or penalties",
+  "status": "pass",
+  "evidence": "The section includes provisions for fines and penalties for non-compliance.",
+  "confidence": 95
+}

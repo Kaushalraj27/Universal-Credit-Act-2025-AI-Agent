@@ -1,0 +1,6 @@
+{
+  "rule": "Act must specify eligibility criteria",
+  "status": "pass",
+  "evidence": "The Section Text provides specific eligibility criteria for various groups of individuals, including pre-2026 claimants, severe conditions criteria claimants, and terminally ill individuals.",
+  "confidence": 95
+}
