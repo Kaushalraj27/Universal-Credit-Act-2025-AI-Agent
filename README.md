@@ -39,7 +39,8 @@ TL;DR — A full local AI pipeline using **Ollama + llama3** to extract text fro
 ---
 
 ##  Project Structure
-<img width="189" height="627" alt="image" src="https://github.com/user-attachments/assets/6eab2bac-c378-4cc5-a61b-3b6aec7c3b39" />
+<img width="189" height="627" alt="image" src="https://github.com/user-attachments/assets/52b31922-aaf9-493a-b571-2c3dafc5a60a" />
+
 
 ### `rule_raw/` folder
 Raw LLM responses for each rule — useful for debugging + submission.
@@ -153,7 +154,8 @@ End-to-end pipeline runner.
 
 ##  sample screenshot
 
-<img width="1618" height="884" alt="image" src="https://github.com/user-attachments/assets/82e0c156-ad52-4b25-a5cb-03270307b239" />
+<img width="1618" height="884" alt="image" src="https://github.com/user-attachments/assets/6844f899-9314-451f-8992-34c123676c29" />
+
 
 ---
 
