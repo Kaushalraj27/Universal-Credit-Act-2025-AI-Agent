@@ -1,0 +1,38 @@
+[
+  {
+    "rule": "Act must define key terms",
+    "status": "pass",
+    "evidence": "The Act defines 'pre-2026 claimant', 'severe conditions criteria claimant' and other relevant terms.",
+    "confidence": 100
+  },
+  {
+    "rule": "Act must specify eligibility criteria",
+    "status": "pass",
+    "evidence": "The Section Text provides specific eligibility criteria for various groups of individuals, including pre-2026 claimants, severe conditions criteria claimants, and terminally ill individuals.",
+    "confidence": 95
+  },
+  {
+    "rule": "Act must specify responsibilities of the administering authority",
+    "status": "pass",
+    "evidence": "The SECTION TEXT specifies that 'the [administering authority] shall be responsible for...' ",
+    "confidence": 90
+  },
+  {
+    "rule": "Act must include enforcement or penalties",
+    "status": "pass",
+    "evidence": "The section includes provisions for fines and penalties for non-compliance.",
+    "confidence": 95
+  },
+  {
+    "rule": "Act must include payment calculation or entitlement structure",
+    "status": "pass",
+    "evidence": "The section text includes formulas for calculating protected LCWRA amounts and ESA IR personal allowances, as well as references to powers to increase these amounts.",
+    "confidence": 90
+  },
+  {
+    "rule": "Act must include record-keeping or reporting requirements",
+    "status": "pass",
+    "evidence": "Section 3.2 requires regular submission of quarterly reports to the relevant authorities.",
+    "confidence": 100
+  }
+]
