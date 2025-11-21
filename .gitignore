@@ -1,0 +1,21 @@
+# Virtualenv
+.venv/
+.venv_ollama/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output files (large)
+output/rule_raw/
+output/*.txt
+output/*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ollama/cache (optional)
+ollama/
